@@ -1,12 +1,10 @@
-**Computationally predicting T-cell cross-reactivity**
-
-**induced autoimmunity with pathogenic proteome**
+**Computationally predicting T-cell cross-reactivity induced autoimmunity with pathogenic proteome**
 
 
 
 The purpose of the following project is to locate possible sequence
 
-alignment between pathogenic proteins and known human autoimmune epitopes.
+alignment between pathogenic proteins and known human autoimmune epitopes. For more in depth see attached PDF paper ("Bachelor thesis Lucio Stevns s225031.pdf").
 
 
 
