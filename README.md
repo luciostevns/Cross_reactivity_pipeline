@@ -30,7 +30,7 @@ alignment between pathogenic proteins and known human autoimmune epitopes.
 
 
 
-CODE STUFF (REPLACE WITH BETTER HEADER)
+**CODE STUFF**
 
 
 
