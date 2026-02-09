@@ -33,6 +33,18 @@ DATA COLLECTION
   verifying chosen pathogens are pathogenic). Including Assembly id is
   important.
 
+============================================================
+USAGE
+============================================================
+
+Run scripts in this order:
+
+    python 1_IEDB_Wrangling.py
+    python 1_Pathogen_ref_wrangling.py
+    python 2_Pathogen_fasta_retrivial.py
+    python 3_Protein_meta_data.py
+    python 4_Perfect_match_2_0.py
+
 
 ============================================================
 CODE STUFF
